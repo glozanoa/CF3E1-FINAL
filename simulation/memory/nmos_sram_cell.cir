@@ -1,0 +1,6 @@
+.title IV-2N7000
+.include "/home/glozanoa/classes/uni/20241/analogic-circuits/project/main/models/2N7000.onsemi.lib"
+V2 QD GND DC 1 
+XQ1 GND QG QD 2N7000
+V1 QG GND DC 1 
+.end
